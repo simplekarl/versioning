@@ -11,6 +11,9 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "release": {
+    "branches": ["main"]
+  }
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
