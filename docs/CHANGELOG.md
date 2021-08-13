@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/simplekarl/versioning/compare/v1.2.2...v1.3.0) (2021-08-13)
+
+
+### Features
+
+* Add github plugin back ([8e967a5](https://github.com/simplekarl/versioning/commit/8e967a50f746b4fb5a8fa46528a6b4bdd9b55446))
+
 ## [1.2.2](https://github.com/simplekarl/versioning/compare/v1.2.1...v1.2.2) (2021-08-13)
 
 
