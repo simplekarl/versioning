@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/simplekarl/versioning/compare/v1.2.0...v1.2.1) (2021-08-13)
+
+
+### Bug Fixes
+
+* Remove extra node versions from CI workflow ([bcd18ef](https://github.com/simplekarl/versioning/commit/bcd18ef9c275bd1c05857310a048069ed2ec5683))
+
 # [1.2.0](https://github.com/simplekarl/versioning/compare/v1.1.1...v1.2.0) (2021-08-13)
 
 
