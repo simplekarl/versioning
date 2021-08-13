@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/simplekarl/versioning/compare/v1.1.1...v1.2.0) (2021-08-13)
+
+
+### Features
+
+* testing feature ([512b5e6](https://github.com/simplekarl/versioning/commit/512b5e61eb264e21ed03c6a9579455f03c3fedb6))
+
 ## [1.1.1](https://github.com/simplekarl/versioning/compare/v1.1.0...v1.1.1) (2021-08-13)
 
 
