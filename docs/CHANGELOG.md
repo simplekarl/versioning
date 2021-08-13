@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/simplekarl/versioning/compare/v1.2.1...v1.2.2) (2021-08-13)
+
+
+### Bug Fixes
+
+* Add debug ([88ae7c5](https://github.com/simplekarl/versioning/commit/88ae7c5744b57d0d3643ef89e9380951968ce0e7))
+
 ## [1.2.1](https://github.com/simplekarl/versioning/compare/v1.2.0...v1.2.1) (2021-08-13)
 
 
