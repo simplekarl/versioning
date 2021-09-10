@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/simplekarl/versioning/compare/v1.4.0...v2.0.0) (2021-09-10)
+
+
+### Bug Fixes
+
+* Shouldn't have text file ([926648f](https://github.com/simplekarl/versioning/commit/926648f027d0783e1b7f36ede97f45a9b8b3cd40))
+
+
+### Features
+
+* Actually needed pdf ([3784099](https://github.com/simplekarl/versioning/commit/37840997a9dabaeaf830d4f810af8e02d4776a1e))
+
+
+### BREAKING CHANGES
+
+* Breaks some thing
+
 # [1.4.0](https://github.com/simplekarl/versioning/compare/v1.3.1...v1.4.0) (2021-09-10)
 
 
