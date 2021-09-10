@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/simplekarl/versioning/compare/v1.3.1...v1.4.0) (2021-09-10)
+
+
+### Features
+
+* Added text file ([731aeed](https://github.com/simplekarl/versioning/commit/731aeeda9a7bb189e3e2cf9597011025a520269d))
+
 ## [1.3.1](https://github.com/simplekarl/versioning/compare/v1.3.0...v1.3.1) (2021-08-13)
 
 
